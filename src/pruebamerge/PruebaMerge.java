@@ -25,7 +25,7 @@ public class PruebaMerge {
         String nombre1 = "Hola, soy maty.";
         System.out.println("nombre");
         int suma2;
-        suma2= numero+numero2;
+        
         
         
         
