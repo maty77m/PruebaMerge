@@ -20,16 +20,16 @@ public class PruebaMerge {
 //SOY MALOOOOOO 3=)
  
         
-       
-
-
-
-/*
-sda
-dasdasdasdasd
-asdaasdsd
-asdasd
-   */     
+        int numero3 = 20;
+        int numero24 = 25;
+        String nombre1 = "Hola, soy maty.";
+        System.out.println("nombre");
+        int suma2;
+        suma2= numero+numero2;
+        
+        
+        
+        
     }
     
 }
