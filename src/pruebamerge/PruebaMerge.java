@@ -17,13 +17,19 @@ public class PruebaMerge {
     public static void main(String[] args) {
        
         
-        int numero = 20;
-        int numero2 = 25;
-        String nombre = "Hola, soy maty.";
-        System.out.println("nombre");
-        int suma;
-        suma= numero+numero2;
+//SOY MALOOOOOO 3=)
+ 
         
+       
+
+
+
+/*
+sda
+dasdasdasdasd
+asdaasdsd
+asdasd
+   */     
     }
     
 }
